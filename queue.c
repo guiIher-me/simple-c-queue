@@ -24,7 +24,7 @@ typedef struct node {
 
 
 //-----------------------------------------------------------
-//LINKED LIST
+//QUEUE
 typedef struct queue {
 	Node head;
 	Node tail;
